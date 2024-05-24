@@ -14,9 +14,12 @@ export default function Home() {
     <>
       <Hero />
       <Features />
+    {/*
       <Zigzag />
       <Testimonials />
       <Newsletter />
+      */}
+
     </>
   )
 }
