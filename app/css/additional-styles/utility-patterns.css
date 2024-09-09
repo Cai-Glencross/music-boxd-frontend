@@ -13,6 +13,7 @@
 
 .h4 {
     @apply text-2xl font-bold leading-snug tracking-tight;
+    text-align: center;
 }
 
 @screen md {
