@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "/music-boxd",
-    output: "export",  // <=== enables static exports
+    //output: "standalone",  // <=== enables static exports
     reactStrictMode: true,
 };
 
